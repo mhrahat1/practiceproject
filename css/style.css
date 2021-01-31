@@ -1,0 +1,8 @@
+body{
+	background-image: url(../images/color.jpg);
+	background-repeat: no-repeat center center fixed;
+	background-size: cover;
+}
+h2{
+	color: red;
+}
